@@ -1,5 +1,5 @@
 ﻿List<int> totalCalories = new();
-string input = "C:/Users/jlee/Desktop/adventinput.txt";
+string input = "C:\\Users\\John\\Documents\\GitHub\\AdventOfCode\\InputFile.txt";
 
 using (StreamReader reader = new(input)) {
   string? line;

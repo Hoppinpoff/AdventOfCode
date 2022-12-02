@@ -5,7 +5,12 @@ VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day1.CalorieCounting", "Day1.CalorieCounting\Day1.CalorieCounting.csproj", "{CAE2190F-1D4D-4FAB-B5E6-7B9E77CE2695}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day2.RockPaperScissors", "Day2.RockPaperScissors\Day2.RockPaperScissors.csproj", "{870C4EF6-BF6C-47C4-B900-7DCD5556106A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day2.RockPaperScissors", "Day2.RockPaperScissors\Day2.RockPaperScissors.csproj", "{870C4EF6-BF6C-47C4-B900-7DCD5556106A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{84EDA96C-BB29-4DF6-9607-49AFCD97720F}"
+	ProjectSection(SolutionItems) = preProject
+		InputFile.txt = InputFile.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
