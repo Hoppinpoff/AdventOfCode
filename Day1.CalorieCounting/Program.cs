@@ -6,16 +6,16 @@ using (StreamReader reader = new(input)) {
   int calories = 0;
   while ((line = reader.ReadLine()) != null) {
     if (line != "") {
-      calories+=int.Parse(line);
+      calories += int.Parse(line);
     } else {
       totalCalories.Add(calories);
       calories = 0;
     }
-    }
+  }
 }
 Console.WriteLine(totalCalories.Max().ToString());
 totalCalories.Sort();
 totalCalories.Reverse();
-int finalAnswer = totalCalories[0] + totalCalories[1]+ totalCalories[2];
+int finalAnswer = totalCalories[0] + totalCalories[1] + totalCalories[2];
 Console.WriteLine(finalAnswer);
 
