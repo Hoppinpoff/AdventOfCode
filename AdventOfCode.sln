@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		InputFile.txt = InputFile.txt
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day3.Rucksack.Reorganization", "Day3\Day3.Rucksack.Reorganization.csproj", "{0AB332A7-CE68-4F4D-B603-E05B6AC1D1E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,10 @@ Global
 		{870C4EF6-BF6C-47C4-B900-7DCD5556106A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{870C4EF6-BF6C-47C4-B900-7DCD5556106A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{870C4EF6-BF6C-47C4-B900-7DCD5556106A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AB332A7-CE68-4F4D-B603-E05B6AC1D1E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB332A7-CE68-4F4D-B603-E05B6AC1D1E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AB332A7-CE68-4F4D-B603-E05B6AC1D1E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AB332A7-CE68-4F4D-B603-E05B6AC1D1E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
